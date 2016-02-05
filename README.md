@@ -1,5 +1,5 @@
 # JAWAD Meetup App
 
-### Build with ExponentJS
+## Built with [ExponentJS](exponentjs.com) 
 
-[]:http://i.imgur.com/xBGyagy.png
+[app]: http://i.imgur.com/xBGyagy.png
