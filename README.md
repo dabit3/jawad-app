@@ -2,4 +2,4 @@
 
 #### Built with [ExponentJS](https://www.exponentjs.com) 
 
-![app](http://i.imgur.com/xBGyagy.png)
+![](http://i.imgur.com/Zl5nDpO.png)

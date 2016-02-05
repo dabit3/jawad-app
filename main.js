@@ -127,7 +127,7 @@ let styles = StyleSheet.create({
   linkText: {
     fontSize:16,
     fontWeight: '100',
-    color: 'ffffff',
+    color: 'rgba(255,255,255, 1)',
     paddingLeft:20,
     letterSpacing: 1
   },
@@ -148,7 +148,7 @@ let styles = StyleSheet.create({
     backgroundColor: 'transparent'
   },
   imageText: {
-    color: 'ffffff',
+    color: 'rgba(255,255,255, 1)',
     fontWeight: '200',
     fontSize:22,
     textAlign: 'center',
